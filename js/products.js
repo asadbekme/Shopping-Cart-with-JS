@@ -5,7 +5,7 @@ const products = [
       name: "iPhone 13",
       price: 799,
       deletedPrice: 800,
-      instock: 1000,
+      instock: 10000,
       imgSrc: "../images/product 1.png"
     },
 
@@ -23,7 +23,7 @@ const products = [
       name: "iPad mini 6 (2021)",
       price: 499,
       deletedPrice: 500,
-      instock: 1000,
+      instock: 10000,
       imgSrc: "../images/product 3.png"
     },
 
